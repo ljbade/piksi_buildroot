@@ -1,0 +1,8 @@
+#!/bin/sh
+
+name="geoid_daemon"
+cmd="geoid_daemon"
+dir="/"
+user=""
+
+source /etc/init.d/template_process.inc.sh
